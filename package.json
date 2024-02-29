@@ -56,6 +56,9 @@
   "engines": {
     "node": "18.19.1",
     "npm": "10.2.4"
+  },
+  "rules": {
+    "eqeqeq": "off",
+    "no-unused-vars": "off"
   }
-  
 }
